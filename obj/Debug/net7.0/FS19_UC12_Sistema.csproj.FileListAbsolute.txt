@@ -33,7 +33,6 @@ C:/Users/Caique_Zaneti/Documents/GitHub/FS19_UC12_Sistema/obj/Debug/net7.0/ref/F
 /home/fernando/Documentos/aulas_c#/bin/Debug/net7.0/FS19_UC12_Sistema.runtimeconfig.json
 /home/fernando/Documentos/aulas_c#/bin/Debug/net7.0/FS19_UC12_Sistema.dll
 /home/fernando/Documentos/aulas_c#/bin/Debug/net7.0/FS19_UC12_Sistema.pdb
-/home/fernando/Documentos/aulas_c#/obj/Debug/net7.0/FS19_UC12_Sistema.csproj.AssemblyReference.cache
 /home/fernando/Documentos/aulas_c#/obj/Debug/net7.0/FS19_UC12_Sistema.GeneratedMSBuildEditorConfig.editorconfig
 /home/fernando/Documentos/aulas_c#/obj/Debug/net7.0/FS19_UC12_Sistema.AssemblyInfoInputs.cache
 /home/fernando/Documentos/aulas_c#/obj/Debug/net7.0/FS19_UC12_Sistema.AssemblyInfo.cs
